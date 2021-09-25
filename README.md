@@ -4,6 +4,7 @@ Tugas Pengolahan Citra
 #Zubair Rahma Anugrah 
 
 source code dari program konversi colorspace dan analisis histogram dari objek gambar tertentu
+dengan menggunakan google colab memakai bahasa pemrograman phyton memakai library opencv dan matplotlib
 
 
 link google collab
